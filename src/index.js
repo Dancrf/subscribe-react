@@ -7,7 +7,6 @@ const SubscribeContainer = (
     <h1>Subscribe</h1>
     <p>Sign up with your email adress to receive news and updates</p>
 
-
     <form>
       <div className='form-inputs'>
         <input type="text" name="first-name" placeholder="First name" id="first-name"></input>
